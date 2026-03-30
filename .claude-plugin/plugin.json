@@ -1,0 +1,12 @@
+{
+  "name": "infra-guard",
+  "version": "1.0.0",
+  "description": "Infrastructure security - nginx, port exposure, infra changes, env sync, hardening audits",
+  "author": {
+    "name": "Matt Hesketh",
+    "email": "matt@heskethwebdesign.co.uk"
+  },
+  "repository": "https://github.com/wrxck/infra-guard",
+  "license": "MIT",
+  "keywords": ["infrastructure", "nginx", "security", "ports", "env", "hardening", "audit"]
+}
