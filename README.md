@@ -1,5 +1,7 @@
 # infra-guard
 
+[![CI](https://github.com/wrxck/infra-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/wrxck/infra-guard/actions/workflows/ci.yml)
+
 Infrastructure security enforcement for Claude Code sessions.
 
 ## What it checks
