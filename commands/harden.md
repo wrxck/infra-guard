@@ -1,3 +1,7 @@
+---
+description: Audit the target project against production hardening best practices and offer to auto-fix each finding
+---
+
 # /harden -- Project Hardening Audit
 
 Audit the target project against production hardening best practices and offer to auto-fix each finding.
